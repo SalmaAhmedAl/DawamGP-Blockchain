@@ -11,9 +11,7 @@
     "hardhat-deploy": "^0.10.5",
     "hardhat-gas-reporter": "^1.0.7",
     "prettier": "^2.5.1",
-    "solidity-coverage": "^0.7.18"
-  },
-  "dependencies": {
+    "solidity-coverage": "^0.7.18",
     "@aave/protocol-v2": "^1.0.1",
     "@chainlink/contracts": "^0.5.1",
     "@ethersproject/bignumber": "^5.5.0",
